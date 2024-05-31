@@ -27,4 +27,3 @@ while True:
         print(f'A senha digitada foi {senha}')
         print(f'O caminho da pasta anexos é {caminho_pasta_anexos}')
         print(f'O caminho da pasta da planilha é {caminho_pasta_planilha}')
-    
